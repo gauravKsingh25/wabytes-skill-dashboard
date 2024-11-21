@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org) project (https://github.com/vercel/next.
 First, run the development server:
 
 ```bash
+cd directory
+npm install
+  then 
 npm run dev
 # or
 yarn dev
